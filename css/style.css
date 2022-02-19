@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.navbar{
+    background-color: #c7db51;
+    
+}
+
+.quem-somos{
+    background-color: #7a9e41;
+    color:#e9eb95;
+}
+
+.margin{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+.margin2{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.parceiros{
+    background-color: #446b33;
+    color:#8baf50;
+}
+
+.servicos{
+    background-color: #19421c;
+    color:#8baf50;
+}
+
+
+h3{
+    font-weight: 900;
+}
+
+.bg-fluid{
+    background-color: #c7db51;
+}
+
+#by{
+    font-size: 20px;
+    font-weight: bolder;
+    color:#b11945;
+    font-family: 'Allura', cursive;
+}
